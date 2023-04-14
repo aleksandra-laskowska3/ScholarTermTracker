@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Home Page"
+        android:id="@+id/home"/>
+    <item android:title="Add Course"
+        android:id="@+id/add_course"/>
+    <item android:title="Save Term"
+        android:id="@+id/save_term"/>
+    <item android:title="Delete Term"
+        android:id="@+id/delete_term"/>
+
+
+</menu>
